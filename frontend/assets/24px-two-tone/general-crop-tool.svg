@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-	<path class="color-solid" d="M20,4H7v2h11v18h2V4z" />
-	<path class="color-solid" d="M6,18V0H4v20h13v-2H6z" />
-	<rect class="color-solid" x="21" y="18" width="3" height="2" />
-	<rect class="color-solid" x="0" y="4" width="3" height="2" />
-	<path class="color-general" d="M21,5l3-3l-1-1l-2,2V5z" />
-	<path class="color-general" d="M17,7L7,17h2l8-8V7z" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,4H7v2h11v18h2V4z" class="color-solid"/><path d="M6,18V0H4v20h13v-2H6z" class="color-solid"/><rect width="3" height="2" x="21" y="18" class="color-solid"/><rect width="3" height="2" x="0" y="4" class="color-solid"/><path d="M21,5l3-3l-1-1l-2,2V5z" class="color-general"/><path d="M17,7L7,17h2l8-8V7z" class="color-general"/></svg>
